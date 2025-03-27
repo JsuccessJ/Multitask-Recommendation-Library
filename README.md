@@ -1,3 +1,9 @@
+## 🙏 Acknowledgement
+
+Special thanks to [easezyc](https://github.com/easezyc) for the original contribution and inspiration.
+
+
+
 # Multi-task Recommendation in PyTorch
 [![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
