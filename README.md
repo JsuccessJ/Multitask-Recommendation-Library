@@ -1,7 +1,7 @@
 ## 🙏 Acknowledgement
-
+Dear easezyc
 Special thanks to [easezyc](https://github.com/easezyc) for the original contribution and inspiration.
-
+From JsuccessJ
 
 
 # Multi-task Recommendation in PyTorch
